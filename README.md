@@ -1,8 +1,13 @@
 # Dynamic UI Rendering Engine using JSON
 
 This is a demo project which produces dynamic UI based on given JSON supporting LIGHT & DARK theme
+
 This project uses a unique and scalable UI rendering engine that has been added as a Dart package and incorporated to the main project.
+
 Project has been build using clean architecture adhering to the SOLID principles
+
+<img src="https://github.com/Avadhesh-Pandey/ui_rendering_app/assets/42084941/2b4dcb07-0632-43ce-9c11-5c52f6635c99" width="200px">  <img src="https://github.com/Avadhesh-Pandey/ui_rendering_app/assets/42084941/8b07710e-5afd-44b8-978a-4f271c24d7b2" width="200px">
+
 
 ## Packages
 
