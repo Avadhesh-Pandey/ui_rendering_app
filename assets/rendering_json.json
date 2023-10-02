@@ -1,0 +1,119 @@
+{
+  "app": {
+    "theme": "light"
+  },
+  "widgets": [
+    {
+      "type": "banner",
+      "items_padding": {
+        "right": 8.0,
+        "left": 8.0,
+        "top": 8.0,
+        "bottom": 0.0
+      },
+      "items": [
+        {
+          "image": "https://cdn.pixabay.com/photo/2019/09/28/05/59/eating-4509962_960_720.jpg",
+          "header_text": "New Recipe",
+          "footer_text": "Cook Chicken Curry",
+          "footer_icon": true
+        },
+        {
+          "color": "blue",
+          "color_code": "0xff2d5f72",
+          "border_radius": 8.0,
+          "header_text": "Meal Planner",
+          "footer_text": "Plan your meals",
+          "footer_icon": false
+        },
+        {
+          "color": "blue",
+          "border_radius": 8.0,
+          "header_text": "Meal Planner",
+          "footer_text": "Plan your meals",
+          "footer_icon": false
+        },
+        {
+          "image": "https://cdn.pixabay.com/photo/2018/02/06/12/37/fruit-3134631_960_720.jpg",
+          "header_text": "New Recipe",
+          "footer_text": "Cook Chicken Curry",
+          "footer_icon": true
+        },
+        {
+          "image": "https://cdn.pixabay.com/photo/2017/04/18/08/07/food-2238161_960_720.jpg",
+          "header_text": "New Recipe",
+          "footer_text": "Cook Chicken Curry",
+          "footer_icon": true
+        }
+      ]
+    },
+    {
+      "type": "horizontal_list",
+      "title": "Collections",
+      "items": [
+        {
+          "type": "circular_item",
+          "text": "Breakfast",
+          "image": "https://cdn.pixabay.com/photo/2013/02/21/19/02/background-84472_960_720.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Vegan",
+          "image": "https://cdn.pixabay.com/photo/2018/06/01/22/07/strawberry-single-3447300_960_720.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Veg",
+          "image": "https://cdn.pixabay.com/photo/2017/06/09/17/07/pomegranate-2387551_960_720.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "Non Veg",
+          "image": "https://cdn.pixabay.com/photo/2021/02/20/03/05/egg-6032173_960_720.jpg"
+        }
+      ]
+    },
+    {
+      "type": "horizontal_list",
+      "title": "Dinner",
+      "items": [
+        {
+          "type": "box_item",
+          "text": "North Indian",
+          "image": "https://cdn.pixabay.com/photo/2015/08/26/21/24/pineapple-909097_960_720.jpg"
+        },
+        {
+          "type": "circular_item",
+          "text": "South Indian",
+          "image": "https://cdn.pixabay.com/photo/2018/08/22/19/46/pumpkin-3624499_960_720.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Chinese",
+          "image": "https://cdn.pixabay.com/photo/2017/10/05/10/18/mushrooms-2818937_960_720.jpg"
+        }
+      ]
+    },
+    {
+      "type": "horizontal_list",
+      "title": "Cuisines",
+      "items": [
+        {
+          "type": "box_item",
+          "text": "American",
+          "image": "https://cdn.pixabay.com/photo/2016/07/28/19/57/spaghetti-1549324_960_720.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Italian",
+          "image": "https://cdn.pixabay.com/photo/2018/06/21/20/22/lighting-3489394_960_720.jpg"
+        },
+        {
+          "type": "box_item",
+          "text": "Thai",
+          "image": "https://cdn.pixabay.com/photo/2020/02/22/08/41/food-4869871_960_720.jpg"
+        }
+      ]
+    }
+  ]
+}
